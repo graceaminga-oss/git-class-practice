@@ -1,0 +1,6 @@
+My Git Practice
+
+Learning Git commands:
+git init
+git add
+git commit
