@@ -1,0 +1,7 @@
+Hello I am grace and this is a test commit for this repository
+My Git Practice
+
+Learning Git commands:
+git init
+git add
+git commit
